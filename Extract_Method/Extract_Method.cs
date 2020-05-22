@@ -8,6 +8,10 @@ namespace Refactoring
             return 10.0;
         }
     }
+
+    /// <summary>
+    /// 原本程式碼
+    /// </summary>
     public class Extract_Method_SOURCE
     {
         string name = "";

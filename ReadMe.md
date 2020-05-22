@@ -2,10 +2,12 @@
 
 ## 初衷
 
+此專案是小弟邊看書邊作的筆記
+
 希望可以把所學的知識筆記下來並且提供我做查詢
 
 文件化的目的也希望可以把這些實用的技巧分享給各位 by小柯
 
 ## 目錄
 
-Extract Method
+[Extract Method](/Extract_Method/ReadMe.md)
