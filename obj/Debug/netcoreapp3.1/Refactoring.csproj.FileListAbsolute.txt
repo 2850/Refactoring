@@ -1,0 +1,13 @@
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.exe
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.deps.json
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.runtimeconfig.json
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.runtimeconfig.dev.json
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.dll
+D:\web\Refactoring\bin\Debug\netcoreapp3.1\Refactoring.pdb
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.csprojAssemblyReference.cache
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.AssemblyInfoInputs.cache
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.AssemblyInfo.cs
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.csproj.CoreCompileInputs.cache
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.dll
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.pdb
+D:\web\Refactoring\obj\Debug\netcoreapp3.1\Refactoring.genruntimeconfig.cache
