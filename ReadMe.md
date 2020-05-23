@@ -11,5 +11,9 @@
 ## 目錄
 
 [(110) Extract Method](/doc/(110)Extract_Method.md)：一段程式碼可以被組織在一起並且獨立出來
+
+[(124)Introduce_Explaining_Variable](/doc/(124)Introduce_Explaining_Variable.md)：將複雜運算式(或其中一部分) 的結果放進一個暫時變數，以此變數名稱來解釋運算式用途
+
 [(128) Split Temporary Variable Method](/doc/(128)Split_Temporary_Variable.md)：針對每次賦予值，創造一個獨立的、對應暫時變數
+
 [(119) Inline Temp Method](/doc/(119)Inline_Temp.md)：將所有對肝變數的引用動作，替換為對它復職的那個運算式本身
