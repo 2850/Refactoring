@@ -10,6 +10,6 @@
 
 ## 目錄
 
-[Extract Method (110)](/Extract_Method/ReadMe.md)：一段程式碼可以被組織在一起並且獨立出來
-[Split Temporary Variable Method (128)](/Split_Temporary_Variable/Readme.md)：針對每次賦予值，創造一個獨立的、對應暫時變數
-[Inline Temp Method (119)](/Inline_Temp/readme.md)：將所有對肝變數的引用動作，替換為對它復職的那個運算式本身
+[(110) Extract Method](/doc/(110)Extract_Method.md)：一段程式碼可以被組織在一起並且獨立出來
+[(128) Split Temporary Variable Method](/doc/(128)Split_Temporary_Variable.md)：針對每次賦予值，創造一個獨立的、對應暫時變數
+[(119) Inline Temp Method](/doc/(119)Inline_Temp.md)：將所有對肝變數的引用動作，替換為對它復職的那個運算式本身
