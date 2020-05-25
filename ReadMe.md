@@ -10,10 +10,13 @@
 
 ## 目錄
 
-[(110) Extract Method](/doc/(110)Extract_Method.md)：一段程式碼可以被組織在一起並且獨立出來
 
-[(124)Introduce_Explaining_Variable](/doc/(124)Introduce_Explaining_Variable.md)：將複雜運算式(或其中一部分) 的結果放進一個暫時變數，以此變數名稱來解釋運算式用途
-
-[(128) Split Temporary Variable Method](/doc/(128)Split_Temporary_Variable.md)：針對每次賦予值，創造一個獨立的、對應暫時變數
-
-[(119) Inline Temp Method](/doc/(119)Inline_Temp.md)：將所有對肝變數的引用動作，替換為對它復職的那個運算式本身
+|方法  |簡述  |
+|---------|---------|
+|[(110) Extract Method](/doc/(110)Extract_Method.md)     |一段程式碼可以被組織在一起並且獨立出來         |
+|[(119) Inline Temp Method](/doc/(119)Inline_Temp.md)     |將所有對肝變數的引用動作，替換為對它復職的那個運算式本身         |
+|[(120) Replace_Temp_With_Query](/doc/((120)Replace_Temp_With_Query.md))     |將運算式提煉到一個獨立函式，將這個暫時變數的所有【被引用點】替換為【對新函式的呼嘯】         |
+|[(124) Introduce_Explaining_Variable](/doc/(124)Introduce_Explaining_Variable.md)     |將複雜運算式(或其中一部分) 的結果放進一個暫時變數，以此變數名稱來解釋運算式用途         |
+|[(128) Split Temporary Variable Method](/doc/(128)Split_Temporary_Variable.md)     |針對每次賦予值，創造一個獨立的、對應暫時變數         |
+|[(131)Remove_Assignments_to_Parameters](/doc/(131)Remove_Assignments_to_Parameters)     |以一個暫時變數取代該參數的位置         |
+|[(135)Replace_Method_With_Method_Object](/doc/(135)Replace_Method_With_Method_Object.md)     |將這個函式放近一個單獨物件中，如此一來區域變數就成了物件內的欄位。然後你可以在同一個物件中將這個大型函式分解為數個小型函式         |
