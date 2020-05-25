@@ -2,7 +2,7 @@
 
 ## Inline_Temp (119)
 
-## 將所有對肝變數的引用動作，替換為對它復職的那個運算式本身
+## 將所有對變數的引用動作，替換為對它賦予的那個運算式本身
 
 ``` cs
 double basePrice = anOrder.basePrice();
