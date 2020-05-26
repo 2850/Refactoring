@@ -17,4 +17,4 @@ return (anOrder.basePrice() > 1000)
 
 ## 動機
 
-多半是作為Repace Temp with Query(120)的一部分來使用，所以真正動機是用120。單獨使用此方式的狀況是：你發現某個暫時變數被賦予某個函式呼嘯的返回值。
+多半是作為[(120)Replace_Temp_With_Query]((120)Replace_Temp_With_Query.md)的一部分來使用，所以真正動機是用120。單獨使用此方式的狀況是：你發現某個暫時變數被賦予某個函式呼嘯的返回值。
