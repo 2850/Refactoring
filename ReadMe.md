@@ -23,4 +23,4 @@
 |[(146) Move Method](/doc/(142)Move_Method.md)     |該函式最常引用的Class中建立一個有著==類似行為==的新函式。將舊函式變成一個單純的委託函式或將就函式移除。         |
 |[(149) Extract_Class](/doc/(149)Extract_Class.md)     |建立一個新Class，將相關的欄位與函式從舊Class搬移到新Class         |
 |[(157) Hide Delegate](/doc/(157)Hide_Delegate.md)     |隱藏 【委託關係】       |
-|[(171)Self Encapsulate Field ](/doc/((171)Self_Encapsulate_Field.md))     |自我封裝欄位      |
+|[(171)Self Encapsulate Field ](/doc/(171)Self_Encapsulate_Field.md)    |自我封裝欄位      |
