@@ -4,12 +4,12 @@
 
 ## 簡介說明
 
-``` mermaid
+``` cs
 classDiagram
 Person <.. ClientClass
 Department <..ClientClass
 class ClientClass{
- 
+
 }
 
 class Person{
@@ -24,12 +24,12 @@ class Department{
 
 轉換成
 
-``` mermaid
+``` cs
 classDiagram
 Person <.. ClientClass
 Department <..Person
 class ClientClass{
- 
+
 }
 
 class Person{
@@ -37,7 +37,7 @@ class Person{
 }
 
 class Department{
-    
+
 }
 
 
@@ -97,12 +97,12 @@ public Person getManager(){
 這個狀況也可能導致最後有很多的委託關係的Function，也會有反向的關係
 重構本身就是根據當時的狀況去變化，不需要太擔心過多的Function。
 
-``` mermaid
+``` cs
 classDiagram
 Person <.. ClientClass
 Department <..Person
 class ClientClass{
-    
+
 }
 
 class Person{
@@ -110,19 +110,19 @@ class Person{
 }
 
 class Department{
-    
+
 }
 
 ```
 
 轉換成
 
-``` mermaid
+``` cs
 classDiagram
 Person <.. ClientClass
 Department <..ClientClass
 class ClientClass{
- 
+
 }
 
 class Person{

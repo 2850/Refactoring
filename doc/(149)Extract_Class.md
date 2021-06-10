@@ -17,7 +17,7 @@ class Person{
 
 轉換成
 
-``` mermaid
+``` cs
 classDiagram
 
 class Person{
@@ -128,7 +128,7 @@ Class TelephoneNumber{
 }
 ```
 
-### 第二步 
+### 第二步
 
 移動其他欄位並且運用[Move Method(142)](/doc/(142)Move_Method.md)將相關函式移動到TelephoneNumber
 

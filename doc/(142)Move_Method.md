@@ -4,24 +4,24 @@
 
 ## 該函式最常引用的Class中建立一個有著==類似行為==的新函式。將舊函式變成一個單純的委託函式或將就函式移除。
 
-``` mermaid
+``` cs
 classDiagram
 class Class1{
     getPoints()
 }
 
 class Class2{
-    
+
 }
 
 ```
 
 轉換成
 
-``` mermaid
+``` cs
 classDiagram
 class Class1{
-    
+
 }
 
 class Class2{

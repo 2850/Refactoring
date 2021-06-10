@@ -4,24 +4,24 @@
 
 ## 在Target Class 建立一個 new field，修改 source field 的所有用戶，令他們改用new field
 
-``` mermaid
+``` cs
 classDiagram
 class Class1{
    int aField
 }
 
 class Class2{
- 
+
 }
 
 ```
 
 轉換成
 
-``` mermaid
+``` cs
 classDiagram
 class Class1{
- 
+
 }
 
 class Class2{
