@@ -6,7 +6,7 @@
 
 ``` cs
 private int _low; _high;
-boolean includes (int arg){
+boolean includes(int arg) {
     return arg >- _low && arg <= _high;
 }
 ```
@@ -15,7 +15,7 @@ boolean includes (int arg){
 
 ``` cs
 private int _low; _high;
-boolean includes (int arg){
+boolean includes(int arg) {
     return arg >- getLow() && arg <= getHigh();
 }
 
@@ -46,13 +46,14 @@ int getHign() {return _high;}
 ``` cs
 
 class IntRange{
-    private int _low; _high;
+    private int _low;
+    private int _high;
 
-    IntRange(int low,int high){
-        initialize (low,hign);
+    IntRange (int low , int high) {
+        initialize(low , hign);
     }
 
-    private void initialize (int low,int high){
+    private void initialize (int low , int high) {
         _low = low;
         _high = high;
     }
@@ -65,19 +66,19 @@ class IntRange{
 一旦擁有subclass，這動作的價值就會體現出來
 
 ``` cs
-class CappedRange :IntRange{
-    CappedRange (int low,int high,cap){
-        self(low,high);
+class CappedRange :IntRange {
+    CappedRange (int low , int high , cap _cap ) {
+        base(low , high);
         _cap = cap;
     }
 
     private int _cap;
-    int getCap(){
+    int getCap() {
         return _cap;
     }
 
-    int getHigh(){
-        return Math.min(self.getHigh(),getCap());
+    int getHigh() {
+        return Math.min( base.getHigh(), base.getCap() );
     }
 
 }
