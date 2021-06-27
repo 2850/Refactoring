@@ -1,6 +1,4 @@
-# 簡介
-
-## Self Encapsulate Field (自我封裝欄位)
+# Self Encapsulate Field (自我封裝欄位)
 
 ## 為這個欄位建立 取值 / 設值 函式(getting/setting methods)，並且只透過這兩個函式取欄位
 

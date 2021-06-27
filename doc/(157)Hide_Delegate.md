@@ -1,6 +1,4 @@
-# 簡介
-
-## Hide Delegate (隱藏 【委託關係】)
+# Hide Delegate (隱藏 【委託關係】)
 
 ## 簡介說明
 

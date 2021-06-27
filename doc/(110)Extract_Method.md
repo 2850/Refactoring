@@ -1,6 +1,4 @@
-# 簡介
-
-## Extract_Method (110)
+# Extract_Method (110)
 
 ## 一段程式碼可以被組織在一起並且獨立出來
 

@@ -1,6 +1,4 @@
-# 簡介
-
-## Extract Class (提煉類別)
+# Extract Class (提煉類別)
 
 ## 建立一個新Class，將相關的欄位和函式從就Class搬移到新Class
 

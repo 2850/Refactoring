@@ -1,6 +1,4 @@
-# 簡介
-
-## Move Field (搬移欄位)
+# Move Field (搬移欄位)
 
 ## 在Target Class 建立一個 new field，修改 source field 的所有用戶，令他們改用new field
 

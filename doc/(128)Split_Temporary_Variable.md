@@ -1,6 +1,4 @@
-# 簡介
-
-## Split Temporary Variable (128) 剖解暫時變數
+# Split Temporary Variable (128) 剖解暫時變數
 
 ## 針對每次賦予值，創造一個獨立的、對應暫時變數
 

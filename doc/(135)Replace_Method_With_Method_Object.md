@@ -1,6 +1,4 @@
-# 簡介
-
-## (135)Replace_Method_With_Method_Object
+# (135)Replace_Method_With_Method_Object
 
 ## 將這個函式放近一個單獨物件中，如此一來區域變數就成了物件內的欄位。然後你可以在同一個物件中將這個大型函式分解為數個小型函式
 

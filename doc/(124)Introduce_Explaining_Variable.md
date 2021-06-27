@@ -1,11 +1,9 @@
-# 簡介
-
-## Introduce Explanining Variable (124)
+# Introduce Explanining Variable (124)
 
 ## 將複雜運算式(或其中一部分) 的結果放進一個暫時變數，以此變數名稱來解釋運算式用途
 
 ``` cs
-if ( (platform.toUpperCase().indexOf("MAC") > -1 ) && 
+if ( (platform.toUpperCase().indexOf("MAC") > -1 ) &&
     (browser.toUppserCase().indexOf("IE") > -1) &&
     wasInitialized() && resize > 0)
 {
@@ -46,8 +44,8 @@ if (isMacOs && isIEBrowser && wasInitialized() && wasResized){
 
 ``` cs
 double price(){
-    return quantiy * itemPrice - 
-    Math.max(0, quantity - 500) * itemPrice * 0.5 + 
+    return quantiy * itemPrice -
+    Math.max(0, quantity - 500) * itemPrice * 0.5 +
     Math.min(quantity * itemPrice * 0.1, 100.0);
 }
 ```
@@ -68,8 +66,8 @@ double price(){
 
 ``` cs
 double price(){
-    return quantiy * itemPrice - 
-    Math.max(0, quantity - 500) * itemPrice * 0.5 + 
+    return quantiy * itemPrice -
+    Math.max(0, quantity - 500) * itemPrice * 0.5 +
     Math.min(quantity * itemPrice * 0.1, 100.0);
 }
 
