@@ -1,4 +1,4 @@
-# Replace_Constructor_With_Factory_Method(304)
+# (304)Replace_Constructor_With_Factory_Method(已工廠代替建構)
 
 ## 希望在建立物件時不僅僅是對他做簡單的建構動作
 

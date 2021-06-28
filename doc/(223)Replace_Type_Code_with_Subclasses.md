@@ -1,4 +1,4 @@
-# 簡介
+# (223)Replace_Type_Code_with_Subclasses(已子類別取代型別代碼)
 
 ## xxx方法 (編號)
 
@@ -41,7 +41,7 @@ XXXXX
 ### 有區域變數又再賦予值
 
 ``` cs
- 
+
 ```
 
 ### 後繼
