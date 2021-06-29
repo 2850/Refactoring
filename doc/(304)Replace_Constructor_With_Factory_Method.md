@@ -30,9 +30,9 @@ static Employee create (int type) {
 ```cs
 class Employee {
     private int _type;
-    static final int ENGINEER = 0;
-    static final int SALESMAN = 1;
-    static final int MANAGER = 2;
+    static const int ENGINEER = 0;
+    static const int SALESMAN = 1;
+    static const int MANAGER = 2;
 
     Employee (int type) {
         _type = type;
@@ -44,9 +44,9 @@ class Employee {
 ```cs
 class Employee {
     private int _type;
-    static final int ENGINEER = 0;
-    static final int SALESMAN = 1;
-    static final int MANAGER = 2;
+    static const int ENGINEER = 0;
+    static const int SALESMAN = 1;
+    static const int MANAGER = 2;
 
     Employee (int type) {
         _type = type;
@@ -92,7 +92,7 @@ static Employee create(int type){
 
 第一：修改參數型別，可參考 [(273)Raneme_Method]((273)Raneme_Method.md)
 
-首先建立一個FUnction，讓他接收參數
+首先建立一個Function，讓他接收參數
 
 ```cs
 static Employee create (string name){

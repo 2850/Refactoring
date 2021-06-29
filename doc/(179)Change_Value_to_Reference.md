@@ -22,7 +22,7 @@ class Customer{
         return _name;
     }
 
-    public final string _name;
+    public const string _name;
 }
 
 // client code

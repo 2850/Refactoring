@@ -112,19 +112,10 @@ class Performance{
 }
 ```
 
-
-### 範例2
-
-``` cs
-
-```
-
-### 有區域變數又再賦予值
-
-``` cs
-
-```
-
 ### 後繼
 
-ABCDEF
+重點核心有二
+
+1. 建立物件、屬性、並且加上getter/setter 方法
+2. 把client都替換掉
+3. public 改成 Private

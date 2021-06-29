@@ -17,7 +17,7 @@ double potentialEnergy(double mass, bouble height){
     return mass * GRAVITATIONAL_CONSTANT * height;
 }
 
-static final double GRAVITATIONAL_CONSTANT = 9.81;
+static const double GRAVITATIONAL_CONSTANT = 9.81;
 ```
 
 ## 動機
