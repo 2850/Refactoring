@@ -2,12 +2,14 @@
 
 ## 簡介說明
 
-``` cs
+``` mermaid
+
 classDiagram
 Person <.. ClientClass
 Department <..ClientClass
-class ClientClass{
 
+class ClientClass{
+    // somthing
 }
 
 class Person{
@@ -22,12 +24,13 @@ class Department{
 
 轉換成
 
-``` cs
+``` mermaid
 classDiagram
 Person <.. ClientClass
 Department <..Person
-class ClientClass{
 
+class ClientClass{
+    // somthing
 }
 
 class Person{
@@ -35,7 +38,7 @@ class Person{
 }
 
 class Department{
-
+ // somthing
 }
 
 
@@ -76,7 +79,7 @@ class Department{
 }
 ```
 
-#### 如果客戶希望知道某人的經理是誰，他必須先取得Department物件
+### 如果客戶希望知道某人的經理是誰，他必須先取得Department物件
 
 ``` cs
  manager = json.getDepartment().getManager();

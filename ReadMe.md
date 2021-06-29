@@ -25,14 +25,16 @@
 |[(146) Move Method](/doc/(142)Move_Method.md)     |該函式最常引用的Class中建立一個有著==類似行為==的新函式。將舊函式變成一個單純的委託函式或將就函式移除。         |
 |[(149) Extract_Class](/doc/(149)Extract_Class.md)     |建立一個新Class，將相關的欄位與函式從舊Class搬移到新Class         |
 |[(157) Hide Delegate](/doc/(157)Hide_Delegate.md)     |隱藏 【委託關係】       |
-|[(171)Self Encapsulate Field ](/doc/(171)Self_Encapsulate_Field.md)    |自我封裝欄位      |
-|[(179)Change_Value_to_Reference ](/doc/(179)Change_Value_to_Reference.md)    |將實質物件改為引用物件      |
+|[(171)Self Encapsulate Field](/doc/(171)Self_Encapsulate_Field.md)    |自我封裝欄位      |
+|[(179)Change_Value_to_Reference](/doc/(179)Change_Value_to_Reference.md)    |將實質物件改為引用物件      |
 |[(183)Change_Reference_to_Value](/doc/(183)Change_Reference_to_Value.md)    |將引用物件改為實質物件      |
-|[(186)Replace_Array_with_Object ](/doc/(186)Replace_Array_with_Object.md)    |已物件代替陣列      |
-|[(206)Encapsulate_Field ](/doc/(206)Encapsulate_Field.md)    |封裝欄位      |
-|[(223)Replace_Type_Code_with_Subclasses ](/doc/(223)Replace_Type_Code_with_Subclasses.md)    |已子類別取代型別代碼      |
-|[(273)Raneme_Method.md ](/doc/(273)Raneme_Method.md)    |重新命名函式      |
-|[(275)Add_Parameter ](/doc/(275)Add_Parameter.md)    |添加參數      |
-|[(277)Remove_Parameter ](/doc/(277)Remove_Parameter.md)    |移除參數     |
-|[(295)Introduce_Parameter_Object.md ](/doc/(295)Introduce_Parameter_Object.md)    |引入參數物件      |
-|[(304)Replace_Constructor_With_Factory_Method ](/doc/(304)Replace_Constructor_With_Factory_Method.md)    |已工廠代替建構      |
+|[(186)Replace_Array_with_Object](/doc/(186)Replace_Array_with_Object.md)    |已物件代替陣列      |
+|[(206)Encapsulate_Field](/doc/(206)Encapsulate_Field.md)    |封裝欄位      |
+|[(208)Encapsulate_Collection](/doc/(208)Encapsulate_Collection.md)    |封裝群集      |
+|[(218)Replace_Type_Code_With_Class](/doc/(218)Replace_Type_Code_With_Class.md)    |(218)Replace_Type_Code_With_Class(類別取代型別代碼)      |
+|[(223)Replace_Type_Code_with_Subclasses](/doc/(223)Replace_Type_Code_with_Subclasses.md)    |已子類別取代型別代碼      |
+|[(273)Raneme_Method.md](/doc/(273)Raneme_Method.md)    |重新命名函式      |
+|[(275)Add_Parameter](/doc/(275)Add_Parameter.md)    |添加參數      |
+|[(277)Remove_Parameter](/doc/(277)Remove_Parameter.md)    |移除參數     |
+|[(295)Introduce_Parameter_Object.md](/doc/(295)Introduce_Parameter_Object.md)    |引入參數物件      |
+|[(304)Replace_Constructor_With_Factory_Method](/doc/(304)Replace_Constructor_With_Factory_Method.md)    |已工廠代替建構      |
