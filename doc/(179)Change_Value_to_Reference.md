@@ -2,7 +2,7 @@
 
 ## 動機
 
-reference object (引用物件) vs value object (實質物件)
+reference object (引用物件) VS value object (實質物件)
 
 一開始這個物件可能只是少量不可修改的資料，之後又需要加入可以修改的資料
 
@@ -30,6 +30,7 @@ class Customer{
 ``` cs
 class Order{
     public order(string customerName){
+        // 重點在這，每次使用Order都會去建立一個Customer
         _customer = new Customer(customerName);
     }
 
@@ -57,7 +58,7 @@ private static int numberOfOrdersFor(Collect orders,string customer){
 
 情境說明：
 
-這邊所有的Order 都使用到Customer而且是value objest
+這邊所有的Order 都使用到Customer而且是value object
 
 意思是：每個訂單都各自擁有Customer物件，現在有一個bug或是需求，如果客戶相同，必須把所有的Customer都使用同一個物件
 

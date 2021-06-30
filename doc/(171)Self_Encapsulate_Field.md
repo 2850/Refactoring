@@ -3,7 +3,8 @@
 ## 為這個欄位建立 取值 / 設值 函式(getting/setting methods)，並且只透過這兩個函式取欄位
 
 ``` cs
-private int _low; _high;
+private int _low;
+private int _high;
 boolean includes(int arg) {
     return arg >= _low && arg <= _high;
 }
@@ -12,7 +13,8 @@ boolean includes(int arg) {
 轉換成
 
 ``` cs
-private int _low; _high;
+private int _low;
+private int _high;
 boolean includes(int arg) {
     return arg >- getLow() && arg <= getHigh();
 }

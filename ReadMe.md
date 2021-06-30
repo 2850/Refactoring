@@ -33,6 +33,7 @@
 |[(208)Encapsulate_Collection](/doc/(208)Encapsulate_Collection.md)    |封裝群集      |
 |[(218)Replace_Type_Code_With_Class](/doc/(218)Replace_Type_Code_With_Class.md)    |(218)Replace_Type_Code_With_Class(類別取代型別代碼)      |
 |[(223)Replace_Type_Code_with_Subclasses](/doc/(223)Replace_Type_Code_with_Subclasses.md)    |已子類別取代型別代碼      |
+|[(227)Replace_Type_Code_With_State_Strategy](/doc/(227)Replace_Type_Code_With_State_Strategy.md)    |State/Strategy取代型別代碼      |
 |[(273)Raneme_Method.md](/doc/(273)Raneme_Method.md)    |重新命名函式      |
 |[(275)Add_Parameter](/doc/(275)Add_Parameter.md)    |添加參數      |
 |[(277)Remove_Parameter](/doc/(277)Remove_Parameter.md)    |移除參數     |
